@@ -13,7 +13,7 @@ extensions_categories = {
     ".numbers", ".keynote", ".pps", ".ppsx", ".wpd", ".azw", ".azw3"],
     "setup": [".msi", ".exe"],
     "programs": [".py", ".c", ".cpp", ".php", ".java", ".js", ".html", ".css", ".xml", ".rb", ".swift", ".kt", ".pl", ".lua", ".sh", ".bat", ".ps1", ".m", ".vb", ".asm", ".r", ".scala", ".h", ".m", ".pas", ".json", ".yml", ".sql", ".jsp", ".asp", ".dart", ".go", ".rust", ".ts", ".vb", ".vbs"],
-    "compressed": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz"]
+    "compressed": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz",".rpm"]
 }
 
 # Target folder
